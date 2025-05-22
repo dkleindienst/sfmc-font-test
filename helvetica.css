@@ -1,6 +1,6 @@
 @font-face {
             font-family: 'HelveticaNeue';
-            src: url(/fonts/HelveticaNeueLTPro-Lt.woff2) format("woff2"),url(/fonts/HelveticaNeueLTPro-Lt.woff) format("woff");
+            src: url(fonts/HelveticaNeueLTPro-Lt.woff2) format("woff2"),url(fonts/HelveticaNeueLTPro-Lt.woff) format("woff");
             font-weight: 300;
             font-style: normal;
             font-display: swap;
@@ -8,7 +8,7 @@
 
         @font-face {
             font-family: 'HelveticaNeue';
-            src: url(/fonts/HelveticaNeueLTPro-Roman.woff2) format("woff2"),url(/fonts/HelveticaNeueLTPro-Roman.woff) format("woff");
+            src: url(fonts/HelveticaNeueLTPro-Roman.woff2) format("woff2"),url(fonts/HelveticaNeueLTPro-Roman.woff) format("woff");
             font-weight: 400;
             font-style: normal;
             font-display: swap;
@@ -16,7 +16,7 @@
 
         @font-face {
             font-family: 'HelveticaNeueCondensed';
-            src: url(/fonts/HelveticaNeueLTPro-Cn.woff2) format("woff2"),url(/fonts/HelveticaNeueLTPro-Cn.woff) format("woff");
+            src: url(fonts/HelveticaNeueLTPro-Cn.woff2) format("woff2"),url(fonts/HelveticaNeueLTPro-Cn.woff) format("woff");
             font-weight: 400;
             font-style: normal;
             font-display: swap;
@@ -24,7 +24,7 @@
 
         @font-face {
             font-family: 'HelveticaNeueCondensed';
-            src: url(/fonts/HelveticaNeueLTPro-MdCn.woff2) format("woff2"),url(/fonts/HelveticaNeueLTPro-MdCn.woff) format("woff");
+            src: url(fonts/HelveticaNeueLTPro-MdCn.woff2) format("woff2"),url(fonts/HelveticaNeueLTPro-MdCn.woff) format("woff");
             font-weight: 500;
             font-style: normal;
             font-display: swap;
@@ -32,7 +32,7 @@
 
         @font-face {
             font-family: 'HelveticaNeueCondensed';
-            src: url(/fonts/HelveticaNeueLTPro-LtCn.woff2) format("woff2"),url(/fonts/HelveticaNeueLTPro-LtCn.woff) format("woff");
+            src: url(fonts/HelveticaNeueLTPro-LtCn.woff2) format("woff2"),url(fonts/HelveticaNeueLTPro-LtCn.woff) format("woff");
             font-weight: 300;
             font-style: normal;
             font-display: swap;
